@@ -27,9 +27,9 @@
 <h2 align="center" style="font-size:2.2rem;">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,nodejs,express,mongodb,java,python" height="90" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,java,python" height="90" />
   <br>
-  <strong style="font-size:1.25rem;">Skills: Problem solving, DSA (beginner), Machine Learning</strong>
+  <strong style="font-size:1.25rem;">Skills: Problem solving, DSA , Machine Learning</strong>
 </div>
 
 ---
